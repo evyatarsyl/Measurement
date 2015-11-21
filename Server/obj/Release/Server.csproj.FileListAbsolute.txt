@@ -1,0 +1,18 @@
+C:\Users\Evyatar\Desktop\Measurement\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Evyatar\Desktop\Measurement\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Evyatar\Desktop\Measurement\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Evyatar\Desktop\Measurement\WindowsFormsApplication1\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\Evyatar\Desktop\Measurement\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Evyatar\Desktop\Measurement\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Evyatar\Desktop\Measurement\WindowsFormsApplication1\obj\Release\Server.csproj.GenerateResource.Cache
+C:\Users\Evyatar\Desktop\Measurement\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Evyatar\Desktop\Measurement\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\Evyatar\Documents\Visual Studio 2015\Projects\Measurement\Server\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Evyatar\Documents\Visual Studio 2015\Projects\Measurement\Server\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Evyatar\Documents\Visual Studio 2015\Projects\Measurement\Server\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\Server\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\Server\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\Server\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\Server\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\Server\obj\Release\Server.csproj.GenerateResource.Cache

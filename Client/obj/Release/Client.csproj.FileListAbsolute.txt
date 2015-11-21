@@ -1,0 +1,17 @@
+C:\Users\Evyatar\Desktop\Measurement\Client\bin\Release\Client.exe.config
+C:\Users\Evyatar\Desktop\Measurement\Client\bin\Release\Client.exe
+C:\Users\Evyatar\Desktop\Measurement\Client\bin\Release\Client.pdb
+C:\Users\Evyatar\Desktop\Measurement\Client\obj\Release\Client.Form1.resources
+C:\Users\Evyatar\Desktop\Measurement\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\Evyatar\Desktop\Measurement\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Evyatar\Desktop\Measurement\Client\obj\Release\Client.exe
+C:\Users\Evyatar\Desktop\Measurement\Client\obj\Release\Client.pdb
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\Client\bin\Release\Client.exe.config
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\Client\bin\Release\Client.exe
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\Client\bin\Release\Client.pdb
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\Client\obj\Release\Client.Form1.resources
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\Client\obj\Release\Client.exe
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\Client\obj\Release\Client.pdb

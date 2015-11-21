@@ -1,0 +1,18 @@
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\WindowsFormsApplication1\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\WindowsFormsApplication1\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Evyatar\documents\visual studio 2015\Projects\Measurement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Evyatar\Desktop\Measurement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Evyatar\Desktop\Measurement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Evyatar\Desktop\Measurement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Evyatar\Desktop\Measurement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Evyatar\Desktop\Measurement\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Evyatar\Desktop\Measurement\WindowsFormsApplication1\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Evyatar\Desktop\Measurement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Evyatar\Desktop\Measurement\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Evyatar\Desktop\Measurement\WindowsFormsApplication1\obj\Debug\Server.csproj.GenerateResource.Cache
