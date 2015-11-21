@@ -17,7 +17,7 @@ namespace Client
     {
         static int Measured = 0;
         const int interval = 1000;
-
+//fffff
         static string path = @"C:\Users\Evyatar\Desktop\Measure.txt";
         public Form1()
         {
